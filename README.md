@@ -2,10 +2,12 @@
 
 # telescope-bookmarks.nvim
 
-[![test](https://github.com/dhruvmanila/telescope-bookmarks.nvim/actions/workflows/test.yml/badge.svg)](https://github.com/dhruvmanila/telescope-bookmarks.nvim/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/dhruvmanila/telescope-bookmarks.nvim/branch/main/graph/badge.svg)](https://codecov.io/gh/dhruvmanila/telescope-bookmarks.nvim)
-[![GitHub release](https://img.shields.io/github/v/release/dhruvmanila/telescope-bookmarks.nvim)](https://github.com/dhruvmanila/telescope-bookmarks.nvim/releases/latest)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen)](/LICENSE)
+<!-- [![test](https://github.com/dhruvmanila/telescope-bookmarks.nvim/actions/workflows/test.yml/badge.svg)](https://github.com/dhruvmanila/telescope-bookmarks.nvim/actions/workflows/test.yml) -->
+<!-- [![codecov](https://codecov.io/gh/dhruvmanila/telescope-bookmarks.nvim/branch/main/graph/badge.svg)](https://codecov.io/gh/dhruvmanila/telescope-bookmarks.nvim) -->
+<!-- [![GitHub release](https://img.shields.io/github/v/release/dhruvmanila/telescope-bookmarks.nvim)](https://github.com/dhruvmanila/telescope-bookmarks.nvim/releases/latest) -->
+<!-- [![License](https://img.shields.io/badge/license-MIT-brightgreen)](/LICENSE) -->
+
+**Forked from https://github.com/dhruvmanila/telescope-bookmarks.nvim to solve Firefox place.sqlite lock temporarily** 
 
 A Neovim Telescope extension to open your browser bookmarks right from the editor!
 
