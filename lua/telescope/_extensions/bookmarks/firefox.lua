@@ -10,7 +10,7 @@ local ini = require "telescope._extensions.bookmarks.parser.ini"
 
 -- Path components to the default Firefox config directory for the respective OS.
 local default_config_dir = {
-  Darwin = { "Library", "Application Support", "Firefox" },
+  Darwin = { "Library", "Application Support", "Firefox", "Profiles" },
   Linux = { ".mozilla", "firefox" },
   Windows_NT = { "AppData", "Roaming", "Mozilla", "Firefox" },
 }
